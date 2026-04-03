@@ -21,7 +21,7 @@ A Vim plugin that brings Claude Code's `@file` and `/command` completion experie
 Add to your `.vimrc`:
 
 ```vim
-Plugin 'your-github-username/vim-claude-complete'
+Plugin 'jiengup/vim-claude-complete'
 ```
 
 Then run `:PluginInstall`.
@@ -29,7 +29,7 @@ Then run `:PluginInstall`.
 ### vim-plug
 
 ```vim
-Plug 'your-github-username/vim-claude-complete'
+Plug 'jiengup/vim-claude-complete'
 ```
 
 Then run `:PlugInstall`.
