@@ -214,4 +214,4 @@ inoremap <expr>   /     <SID>TriggerSlash()
 inoremap <expr> <Tab>   pumvisible() ? "\<C-y>" : "\<Tab>"
 
 setlocal completefunc=ClaudeFileComplete
-setlocal completeopt=menuone,noselect,noinsert
+setlocal completeopt=menuone,noinsert
