@@ -1,0 +1,2 @@
+# Un-ignore markdown files for this repo (global gitignore blocks *.md)
+!*.md
